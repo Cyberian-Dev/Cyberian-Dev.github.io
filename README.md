@@ -1,36 +1,12 @@
-## Welcome to GitHub Pages
+## BROADCASTING 24/7 IN SUPPORT OF NETWORK OPERATORS WORLDWIDE
+Sysadmins, junglists, pythonistas, and all others who have traveled in cyberia are welcome. 
+Peace Love Unity and Respect for humankind! ~Chaordicity through musical vibration~
 
-You can use the [editor on GitHub](https://github.com/Cyberian-Dev/Cyberian-Dev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### BROADCASTS
+Our current StreamingOPs situation is less than ideal. As a placeholder (since we recognize the dire need for some properly curated work playlists) we have youtube mixes VVVVV
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cyberian-Dev/Cyberian-Dev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
