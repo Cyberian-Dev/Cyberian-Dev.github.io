@@ -4,8 +4,11 @@ Peace Love Unity and Respect for humankind! ~Chaordicity through musical vibrati
 
 <div>
   
-### BROADCASTS
-Our current StreamingOPs situation is less than ideal. As a placeholder (since we recognize the dire need for some properly curated work playlists) we have youtube mixes VVVVV
+###  BROADCASTS  ###
+<p>
+  Our current StreamingOPs situation is less than ideal. As a placeholder (since we recognize the dire need for some properly curated work playlists) we have youtube mixes 
+</p>
+VVVVV
   
 ****
   
